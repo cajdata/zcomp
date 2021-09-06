@@ -1,2 +1,2 @@
 # zcomp
-An application to find comparable home sales with the Zillow API
+Find comparable home sales using the Zillow API.
